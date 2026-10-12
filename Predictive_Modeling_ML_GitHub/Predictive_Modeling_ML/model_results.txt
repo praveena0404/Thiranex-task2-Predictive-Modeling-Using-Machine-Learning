@@ -1,0 +1,23 @@
+Predictive Modeling Using Machine Learning
+============================================
+Model: Random Forest Classifier
+Dataset: Breast Cancer Wisconsin Diagnostic Dataset
+Test size: 20%
+Random state: 42
+
+Accuracy : 0.9561
+Precision: 0.9589
+Recall   : 0.9722
+F1-score : 0.9655
+ROC-AUC  : 0.9932
+
+Classification Report
+---------------------
+              precision    recall  f1-score   support
+
+   malignant       0.95      0.93      0.94        42
+      benign       0.96      0.97      0.97        72
+
+    accuracy                           0.96       114
+   macro avg       0.96      0.95      0.95       114
+weighted avg       0.96      0.96      0.96       114
